@@ -30,10 +30,6 @@ p {
     animation-duration: 3s;
 }
 
-/*.row button {
-    margin: 0 4rem 0 4rem;
-}*/
-
 #responseField {
     margin-top: 1rem;
     height: 5rem;
@@ -49,5 +45,5 @@ footer {
     font-family: "Pacifico", cursize;
     color: #DC0073;
     font-size: 2rem;
-    margin-bottom: .5rem;
+    margin-bottom: 1rem;
 }
