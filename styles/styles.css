@@ -1,0 +1,53 @@
+body .container {
+    color: red;
+    font-size: 16px;
+}
+
+header {
+    text-align: center;
+    margin: 2.5rem 0 1rem 0;
+}
+
+header h1 {
+    font-family: "Pacifico", cursize;
+    color: #DC0073;
+    font-size: 3rem;
+}
+
+p {
+    font-family: "Indie Flower", sans-serif;
+    color: #00A1E4;
+    font-size: 1.7rem;
+    text-align: center;
+}
+
+.row .hearts {
+    width: 250px;
+    height: 200px;
+    -webkit-animation-delay: 2s;
+    animation-delay: 2s;
+    -webkit-animation-duration: 3s;
+    animation-duration: 3s;
+}
+
+.row button {
+    margin: 0 4rem 0 4rem;
+}
+
+#responseField {
+    margin-top: 1rem;
+    height: 5rem;
+}
+
+#responseField p {
+    font-family: "Indie Flower", sans-serif;
+    font-weight: bold;
+    color: black;
+}
+
+footer {
+    font-family: "Pacifico", cursize;
+    color: #DC0073;
+    font-size: 2rem;
+    margin-bottom: .5rem;
+}
